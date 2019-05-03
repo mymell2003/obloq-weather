@@ -5,7 +5,7 @@
 	"ObloqWeather.Obloq_stop_heartbeat|block": "停止心跳請求",
 	"ObloqWeather.Obloq_wifi_reconnect|block": "重新連接WIFI",
 	"ObloqWeather.Obloq_wifi_ipconfig|block": "獲取IP地址",
-	"ObloqWeather.Obloq_http_setup|block": "Obloq 初始設置 | 引脚設置: | 接收數據(綠色導線): %receive| 發送數據(藍色數據): %send | Wi-Fi: | 名称: %SSID| 密码: %PASSWORD| 启动连接",
+	"ObloqWeather.Obloq_http_setup|block": "Obloq 初始設置 | 引脚設置: | 接收數據(綠色導線): %receive| 發送數據(藍色數據): %send | Wi-Fi: | 名稱: %SSID| 密碼: %PASSWORD| 啟動連接",
 	"ObloqWeather.Set_location|block": "設置地點：|%location",
 	"ObloqWeather.get_weather|block": "獲取天氣狀況",
 	"ObloqWeather.get_rainfall|block": "獲取雨量",
