@@ -1,7 +1,7 @@
 # Obloq
 
 OBLOQ - IoT Module
-![image](http://wiki.dfrobot.com.cn/images/thumb/b/bc/TEL0118.jpg/300px-TEL0118.jpg)
+![image](http://ws.dfrobot.com.cn/Fr3zWrEejeihJsIeymLjkHrULNMY)
 ---------------------------------------------------------
 
 ## Table of Contents
