@@ -415,8 +415,7 @@ namespace ObloqWeather {
     export function get_weather(): string {
         let city = get_city();
         let ret = get_request(city, "weather");
-        let len = <number>ret.length() - 1;
-        return ret.substr(0, len);
+        return ret;
     }
     /*
     //% weight=80
@@ -436,8 +435,7 @@ namespace ObloqWeather {
     export function get_temperature(): string {
         let city = get_city();
         let ret = get_request(city, "temp_high/temp_low")
-        let len = <number>ret.length() - 1;
-        return ret.substr(0, len);
+        return ret;
     }
 
     //% weight=80
@@ -446,8 +444,7 @@ namespace ObloqWeather {
     export function get_humidity(): string {
         let city = get_city();
         let ret = get_request(city, "humi_high/humi_low")
-        let len = <number>ret.length() - 1;
-        return ret.substr(0, len);
+        return ret;
     }
 
     //% weight=80
@@ -456,8 +453,7 @@ namespace ObloqWeather {
     export function get_windSpeed(): string {
         let city = get_city();
         let ret = get_request(city, "winds_max/winds_min");
-        let len = <number>ret.length() - 1;
-        return ret.substr(0, len);
+        return ret;
     }
 
     /**
